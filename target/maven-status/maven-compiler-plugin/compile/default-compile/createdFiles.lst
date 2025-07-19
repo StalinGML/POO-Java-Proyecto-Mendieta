@@ -1,0 +1,4 @@
+com\mendieta\proyecto\vista\ConsolaVista.class
+com\mendieta\proyecto\servicio\TareaServicio.class
+com\mendieta\proyecto\dashboard\Dashboard.class
+com\mendieta\proyecto\modelo\Tarea.class
